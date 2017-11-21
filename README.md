@@ -1,7 +1,19 @@
 # NLP-Text-analytics
 
+ A}-Relationship extraction from any unstructured text
 
-A} Rape news detection
+It  gives us three tupple which contain NOUN,VERB, NOUN respectively.
+
+
+
+
+
+
+
+
+
+
+B} Rape news detection
 
 Problem statement - Detect following things from news article:-
 
@@ -16,7 +28,7 @@ Problem statement - Detect following things from news article:-
 Approach - 1>. I used NLTK,Regular Expression
 
 
-B} Disease Detection.
+C} Disease Detection.
 
 Problem Statement - Detect following things from any unstructured text :-
 
